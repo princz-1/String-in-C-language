@@ -1,4 +1,4 @@
-// Find the lenfth ?
+// Find the length ?
 
 #include<stdio.h>
 #include<string.h>
