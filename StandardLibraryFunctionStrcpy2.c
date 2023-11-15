@@ -1,5 +1,4 @@
-// string copy 
-
+// Copies value of old string to new string 
 #include <stdio.h>
 #include <string.h>
 int main(void) {
