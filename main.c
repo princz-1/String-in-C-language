@@ -1,4 +1,4 @@
-// A character array terminated by a "\0"(null character)
+// A character array terminated by a "\0"(null character).
 // Null character denoted string termination.
 
 #include <stdio.h>
