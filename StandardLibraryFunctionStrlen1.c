@@ -1,4 +1,4 @@
-// Find the length ?
+// Count number of character excluding '\0'
 
 #include<stdio.h>
 #include<string.h>
